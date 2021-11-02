@@ -1,6 +1,13 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.27",
+	"EngineAssociation": "{5B6E49B9-4796-FEC1-8949-FFBEBF04C35C}",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TRIARM",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
 }
